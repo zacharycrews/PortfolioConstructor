@@ -1,1 +1,1 @@
-alphaVantage = "1234"
+alphaVantage = "12345"
