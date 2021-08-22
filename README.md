@@ -1,5 +1,5 @@
 # PortfolioConstructor
- Three-stock portfolio optimizer created with python. It calculates the expected annual return and standard deviation of a portfolio and finds its optimal stock weights to minimize risk. I started this project to learn more about portfolio theory and seek out attractive potential investments.  
+ Three-stock portfolio optimizer created with python. It calculates the expected annual return and standard deviation of a portfolio using annual price data over the previous five years. It then finds the optimal stock weights to minimize risk. I started this project to learn more about portfolio theory and seek out attractive potential investments.  
 \
 ![Screenshot](screenshot.png)
 
